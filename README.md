@@ -6,7 +6,7 @@ Building practical LLM applications — RAG, agentic systems, and the production
 
 - **[pension-rag](https://github.com/Yeonsoo101/pension-rag)** — Q&A chatbot over Aviva and UK gov pension documents. Hybrid BM25 + vector retrieval with Cohere reranking, ChromaDB, served via FastAPI with a Next.js frontend.
 - **[GDG_AI_DEV_CAMP_2026](https://github.com/Yeonsoo101/GDG_AI_DEV_CAMP_2026)** — Multi-agent systems coursework; capstone is a culture concierge full-stack agent app.
-- **[route_planner](https://github.com/Yeonsoo101/route_planner)** — Route planner using AI agents and LangGraph.
+- **[ai_driving_route_planner](https://github.com/Yeonsoo101/ai_driving_route_planner)** — Streamlit app that finds round-trip driving routes with parking-friendly stops, using Google Places, OpenRouteService, and GPT review classification.
 
 ## Focus areas
 
